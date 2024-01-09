@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4",
+    "name": "ShounenSaruman",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "402361e4-2db5-41c3-a0e0-e27ef65d86e1",
+    "name": "ElSlayeRino",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e6859fb2-cc35-4984-8d44-e46947903a83",
+    "name": "TheBraveAstora",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "41c82c87-7afb-4024-ba57-13d2c99cae77",
+    "name": "[Minecraft]",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
