@@ -27,6 +27,7 @@
       "Completed Palm Trees§r": "2024-01-10 00:44:39 +0800",
       "Completed Root": "2024-01-09 23:02:55 +0800",
       "Completed It\u0027s Tin This Pack§r": "2024-01-10 02:42:50 +0800",
+      "Completed Nap Time§r": "2024-01-12 00:07:06 +0800",
       "Completed Captain Hook§r": "2024-01-10 00:27:42 +0800",
       "Completed Not a Helmet§r": "2024-01-10 01:54:19 +0800",
       "Completed It\u0027s Electric§r": "2024-01-10 02:25:53 +0800",
@@ -88,11 +89,20 @@
     "criteria": {
       "Prestige Mode Disabled": "2024-01-09 23:02:55 +0800",
       "Completed Whopper!§r": "2024-01-10 01:02:13 +0800",
+      "Completed Drumtendo 64§r": "2024-01-12 00:15:03 +0800",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-01-10 00:41:00 +0800",
+      "Completed 256 Liters of Cola§r": "2024-01-12 00:15:03 +0800",
       "Completed Age of Storage§r": "2024-01-09 23:02:55 +0800",
+      "Completed Metallicrate§r": "2024-01-12 00:36:36 +0800",
       "Completed Hop to It§r": "2024-01-10 01:02:13 +0800"
     },
     "done": false
+  },
+  "sf4:age_storage/bdsandmupgrade1": {
+    "criteria": {
+      "Obtain x64 Storage Upgrade": "2024-01-12 00:15:03 +0800"
+    },
+    "done": true
   },
   "sf4:age1/sapling/petrified": {
     "criteria": {
@@ -107,6 +117,18 @@
       "Obtain Redstone Sapling": "2024-01-10 02:25:53 +0800"
     },
     "done": true
+  },
+  "sf4:age_storage/bdsandmupgrade2": {
+    "criteria": {
+      "Obtain x256 Storage Upgrade": "2024-01-12 00:15:03 +0800"
+    },
+    "done": true
+  },
+  "compactmachines:test/3x3x3": {
+    "criteria": {
+      "Obtain Grass Block": "2024-01-12 00:04:28 +0800"
+    },
+    "done": false
   },
   "sf4:age1/sapling/tin": {
     "criteria": {
@@ -134,6 +156,12 @@
     },
     "done": true
   },
+  "sf4:age_storage/bdsandmmetalcrate": {
+    "criteria": {
+      "Obtain Metal Crate": "2024-01-12 00:36:36 +0800"
+    },
+    "done": true
+  },
   "pacifist:pacifist_run/root": {
     "criteria": {
       "hasRock": "2024-01-09 23:02:55 +0800"
@@ -143,8 +171,11 @@
   "sf4:age_storage/complete": {
     "criteria": {
       "Completed Whopper!§r": "2024-01-10 01:02:13 +0800",
+      "Completed Drumtendo 64§r": "2024-01-12 00:15:03 +0800",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-01-10 00:41:00 +0800",
+      "Completed 256 Liters of Cola§r": "2024-01-12 00:15:03 +0800",
       "Completed Age of Storage§r": "2024-01-09 23:02:55 +0800",
+      "Completed Metallicrate§r": "2024-01-12 00:36:36 +0800",
       "Completed Hop to It§r": "2024-01-10 01:02:13 +0800"
     },
     "done": false
@@ -200,6 +231,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/watercollection": {
+    "criteria": {
+      "Right Click Cauldron with Water Inside": "2024-01-12 00:03:34 +0800"
+    },
+    "done": false
+  },
   "sf4:age1/completenoprestige": {
     "criteria": {
       "Completed Tin Man§r": "2024-01-10 02:40:02 +0800",
@@ -216,6 +253,7 @@
       "Completed Palm Trees§r": "2024-01-10 00:44:39 +0800",
       "Completed Root": "2024-01-09 23:02:55 +0800",
       "Completed It\u0027s Tin This Pack§r": "2024-01-10 02:42:50 +0800",
+      "Completed Nap Time§r": "2024-01-12 00:07:06 +0800",
       "Completed Captain Hook§r": "2024-01-10 00:27:42 +0800",
       "Completed Not a Helmet§r": "2024-01-10 01:54:19 +0800",
       "Completed It\u0027s Electric§r": "2024-01-10 02:25:53 +0800",
@@ -276,23 +314,24 @@
     },
     "done": false
   },
-  "sf4:age_enhancement/patternchest": {
-    "criteria": {
-      "Obtain Pattern Chest": "2024-01-10 01:24:44 +0800"
-    },
-    "done": true
-  },
   "twilightforest:alt/root": {
     "criteria": {
       "hidden": "2024-01-10 01:21:16 +0800"
     },
     "done": true
   },
+  "sf4:age_enhancement/patternchest": {
+    "criteria": {
+      "Obtain Pattern Chest": "2024-01-10 01:24:44 +0800"
+    },
+    "done": true
+  },
   "sf4:age1/sleep": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:02:55 +0800"
+      "Completed Root": "2024-01-09 23:02:55 +0800",
+      "Right Click on Bed": "2024-01-12 00:07:06 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/sapling/lead": {
     "criteria": {
@@ -588,6 +627,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/sleep": {
+    "criteria": {
+      "Slept in a bed": "2024-01-12 00:07:07 +0800"
+    },
+    "done": false
+  },
   "sf4:age1/amber/gold": {
     "criteria": {
       "Completed Root": "2024-01-09 23:02:55 +0800"
@@ -633,6 +678,7 @@
   },
   "tutorial:tutorial/copied/water": {
     "criteria": {
+      "Obtain Water in an Iron Bucket": "2024-01-12 00:05:26 +0800",
       "Obtain Water in a Clay Bucket": "2024-01-10 00:34:21 +0800"
     },
     "done": false
@@ -649,6 +695,12 @@
       "Obtain Coal": "2024-01-10 00:57:38 +0800"
     },
     "done": true
+  },
+  "tutorial:tutorial/copied/iron": {
+    "criteria": {
+      "Obtain Iron Amber": "2024-01-12 00:42:33 +0800"
+    },
+    "done": false
   },
   "sf4:age_exploration/root": {
     "criteria": {
@@ -827,6 +879,12 @@
   "tutorial:tutorial/copied/ironingot": {
     "criteria": {
       "Obtain Iron Ingot": "2024-01-10 02:17:32 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/ironbucket": {
+    "criteria": {
+      "Obtain Iron Bucket": "2024-01-12 00:05:03 +0800"
     },
     "done": false
   },
