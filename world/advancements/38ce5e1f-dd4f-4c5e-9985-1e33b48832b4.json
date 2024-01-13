@@ -16,12 +16,15 @@
     "criteria": {
       "Completed Tin Man§r": "2024-01-10 02:40:02 +0800",
       "Completed Air Fryer§r": "2024-01-09 23:54:53 +0800",
+      "Completed Silver Spoon§r": "2024-01-13 19:05:26 +0800",
       "Completed That\u0027s Dir-tree§r": "2024-01-09 23:51:13 +0800",
       "Completed You Cotton Be Kidding Me§r": "2024-01-10 01:55:18 +0800",
       "Completed Sticky Keys§r": "2024-01-09 23:54:25 +0800",
       "Completed Stone Crook§r": "2024-01-10 00:10:27 +0800",
       "Completed Water You Waiting For?§r": "2024-01-10 00:34:21 +0800",
+      "Completed Silver Surfer§r": "2024-01-13 19:04:11 +0800",
       "Completed Break a Leg§r": "2024-01-10 00:28:45 +0800",
+      "Completed This Tree is Forever§r": "2024-01-13 19:37:33 +0800",
       "Completed Blue Man Group§r": "2024-01-10 03:10:16 +0800",
       "Completed I Love Lucy§r": "2024-01-10 00:03:15 +0800",
       "Completed Hotbois§r": "2024-01-10 02:01:46 +0800",
@@ -30,7 +33,9 @@
       "Completed It\u0027s Tin This Pack§r": "2024-01-10 02:42:50 +0800",
       "Completed Nap Time§r": "2024-01-10 22:36:09 +0800",
       "Completed Captain Hook§r": "2024-01-09 23:53:35 +0800",
+      "Completed Trees to Diamonds§r": "2024-01-13 19:43:36 +0800",
       "Completed Not a Helmet§r": "2024-01-10 01:54:19 +0800",
+      "Completed Study in the Dark Arts§r": "2024-01-14 00:04:44 +0800",
       "Completed It\u0027s Electric§r": "2024-01-10 02:25:53 +0800",
       "Completed Dirty Dancing§r": "2024-01-09 23:54:03 +0800",
       "Completed Amber is the Color of my Dinosaur§r": "2024-01-10 01:01:28 +0800",
@@ -52,7 +57,9 @@
       "Completed Sixteen Tons§r": "2024-01-10 00:55:36 +0800",
       "Completed Eating Dirt§r": "2024-01-10 00:13:23 +0800",
       "Completed Stop Slabbing Yourself§r": "2024-01-10 00:00:59 +0800",
-      "Completed Clay Aiken§r": "2024-01-10 00:17:00 +0800"
+      "Completed Clay Aiken§r": "2024-01-10 00:17:00 +0800",
+      "Completed I\u0027ve Been Slimed§r": "2024-01-14 00:37:24 +0800",
+      "Completed I Don\u0027t Know§r": "2024-01-14 00:00:24 +0800"
     },
     "done": false
   },
@@ -72,9 +79,10 @@
   },
   "sf4:age1/sapling/slime": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:05:49 +0800"
+      "Completed Root": "2024-01-09 23:05:49 +0800",
+      "Obtain Blue Slime Sapling": "2024-01-14 00:00:24 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/string": {
     "criteria": {
@@ -198,6 +206,12 @@
     },
     "done": true
   },
+  "sf4:age_farming/wheatseeds": {
+    "criteria": {
+      "Obtain Wheat Seeds": "2024-01-13 18:56:02 +0800"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/gold": {
     "criteria": {
       "Obtain Gold Amber": "2024-01-10 03:20:52 +0800"
@@ -250,7 +264,8 @@
   },
   "tutorial:tutorial/copied/watercollection": {
     "criteria": {
-      "Right Click Cauldron with Water Inside": "2024-01-10 01:21:42 +0800"
+      "Right Click Cauldron with Water Inside": "2024-01-10 01:21:42 +0800",
+      "Right Click Boiling Cauldron with Water Inside": "2024-01-14 00:06:26 +0800"
     },
     "done": false
   },
@@ -258,13 +273,16 @@
     "criteria": {
       "Completed Tin Man§r": "2024-01-10 02:40:02 +0800",
       "Completed Air Fryer§r": "2024-01-09 23:54:53 +0800",
+      "Completed Silver Spoon§r": "2024-01-13 19:05:26 +0800",
       "Prestige Mode Disabled": "2024-01-09 23:05:49 +0800",
       "Completed That\u0027s Dir-tree§r": "2024-01-09 23:51:13 +0800",
       "Completed You Cotton Be Kidding Me§r": "2024-01-10 01:55:18 +0800",
       "Completed Sticky Keys§r": "2024-01-09 23:54:25 +0800",
       "Completed Stone Crook§r": "2024-01-10 00:10:27 +0800",
       "Completed Water You Waiting For?§r": "2024-01-10 00:34:21 +0800",
+      "Completed Silver Surfer§r": "2024-01-13 19:04:11 +0800",
       "Completed Break a Leg§r": "2024-01-10 00:28:45 +0800",
+      "Completed This Tree is Forever§r": "2024-01-13 19:37:33 +0800",
       "Completed Blue Man Group§r": "2024-01-10 03:10:16 +0800",
       "Completed I Love Lucy§r": "2024-01-10 00:03:15 +0800",
       "Completed Hotbois§r": "2024-01-10 02:01:46 +0800",
@@ -273,7 +291,9 @@
       "Completed It\u0027s Tin This Pack§r": "2024-01-10 02:42:50 +0800",
       "Completed Nap Time§r": "2024-01-10 22:36:09 +0800",
       "Completed Captain Hook§r": "2024-01-09 23:53:35 +0800",
+      "Completed Trees to Diamonds§r": "2024-01-13 19:43:36 +0800",
       "Completed Not a Helmet§r": "2024-01-10 01:54:19 +0800",
+      "Completed Study in the Dark Arts§r": "2024-01-14 00:04:44 +0800",
       "Completed It\u0027s Electric§r": "2024-01-10 02:25:53 +0800",
       "Completed Dirty Dancing§r": "2024-01-09 23:54:03 +0800",
       "Completed Amber is the Color of my Dinosaur§r": "2024-01-10 01:01:28 +0800",
@@ -295,7 +315,9 @@
       "Completed Sixteen Tons§r": "2024-01-10 00:55:36 +0800",
       "Completed Eating Dirt§r": "2024-01-10 00:13:23 +0800",
       "Completed Stop Slabbing Yourself§r": "2024-01-10 00:00:59 +0800",
-      "Completed Clay Aiken§r": "2024-01-10 00:17:00 +0800"
+      "Completed Clay Aiken§r": "2024-01-10 00:17:00 +0800",
+      "Completed I\u0027ve Been Slimed§r": "2024-01-14 00:37:24 +0800",
+      "Completed I Don\u0027t Know§r": "2024-01-14 00:00:24 +0800"
     },
     "done": false
   },
@@ -338,6 +360,12 @@
     },
     "done": false
   },
+  "tutorial:tutorial/copied/obsidian": {
+    "criteria": {
+      "Obtain Obsidian": "2024-01-14 00:04:44 +0800"
+    },
+    "done": false
+  },
   "twilightforest:alt/root": {
     "criteria": {
       "hidden": "2024-01-10 01:21:16 +0800"
@@ -366,14 +394,21 @@
   },
   "sf4:age1/sapling/diamond": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:05:49 +0800"
+      "Completed Root": "2024-01-09 23:05:49 +0800",
+      "Obtain Diamond Sapling": "2024-01-13 19:37:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/watersource": {
     "criteria": {
       "Completed SkyFactory 4§r": "2024-01-09 23:05:49 +0800",
       "Completed Root": "2024-01-09 23:05:49 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_farming/animalseeds": {
+    "criteria": {
+      "Cow Seed": "2024-01-13 23:49:31 +0800"
     },
     "done": false
   },
@@ -474,9 +509,10 @@
   },
   "sf4:age1/sapling/silver": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:05:49 +0800"
+      "Completed Root": "2024-01-09 23:05:49 +0800",
+      "Obtain Silver Sapling": "2024-01-13 19:05:26 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_power/completenoprestige": {
     "criteria": {
@@ -509,6 +545,12 @@
   "sf4:age_farming/hoppingbonsai": {
     "criteria": {
       "Obtain Bonsai Pot": "2024-01-10 01:02:22 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/sugarcaneseed": {
+    "criteria": {
+      "Obtain Sugar Cane Seeds": "2024-01-14 00:33:27 +0800"
     },
     "done": true
   },
@@ -599,9 +641,10 @@
   },
   "sf4:age1/green_slimy_dirt": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:05:49 +0800"
+      "Completed Root": "2024-01-09 23:05:49 +0800",
+      "Obtain Green Slime Dirt": "2024-01-14 00:37:24 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_storage/hopper": {
     "criteria": {
@@ -631,9 +674,10 @@
   },
   "sf4:age1/amber/silver": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:05:49 +0800"
+      "Completed Root": "2024-01-09 23:05:49 +0800",
+      "Obtain Silver Amber": "2024-01-13 19:04:11 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_enhancement/toolstation": {
     "criteria": {
@@ -689,9 +733,12 @@
     "criteria": {
       "Obtain Dirt Sapling": "2024-01-09 23:51:13 +0800",
       "Obtain Lead Sapling": "2024-01-10 03:16:43 +0800",
+      "Obtain Silver Sapling": "2024-01-13 19:05:26 +0800",
       "Obtain Coal Sapling": "2024-01-10 00:55:36 +0800",
+      "Obtain Diamond Sapling": "2024-01-13 19:37:33 +0800",
       "Obtain Cottonwood Sapling": "2024-01-10 01:55:32 +0800",
       "Obtain Lapis Sapling": "2024-01-10 03:10:16 +0800",
+      "Obtain Emerald Sapling": "2024-01-14 01:11:15 +0800",
       "Obtain Petrified Sapling": "2024-01-09 23:57:46 +0800",
       "Obtain Tin Sapling": "2024-01-10 02:42:50 +0800",
       "Obtain Iron Sapling": "2024-01-10 02:07:40 +0800",
@@ -737,6 +784,12 @@
     },
     "done": true
   },
+  "sf4:age_farming/cowjar": {
+    "criteria": {
+      "Obtain Cow in a Jar": "2024-01-13 23:54:52 +0800"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/iron": {
     "criteria": {
       "Obtain Iron Amber": "2024-01-10 01:01:28 +0800"
@@ -769,15 +822,17 @@
   },
   "sf4:age1/diamond": {
     "criteria": {
+      "Obtain Diamond": "2024-01-13 19:43:36 +0800",
       "Completed Root": "2024-01-09 23:05:49 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/obsidian": {
     "criteria": {
-      "Completed Root": "2024-01-09 23:05:49 +0800"
+      "Completed Root": "2024-01-09 23:05:49 +0800",
+      "Obtain Obsidian": "2024-01-14 00:04:44 +0800"
     },
-    "done": false
+    "done": true
   },
   "tutorial:tutorial/copied/lava": {
     "criteria": {
@@ -882,6 +937,18 @@
     },
     "done": true
   },
+  "tutorial:tutorial/copied/diamondsapling": {
+    "criteria": {
+      "Obtain Diamond Sapling": "2024-01-13 19:37:33 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/diamond": {
+    "criteria": {
+      "Obtain Diamond": "2024-01-13 19:43:36 +0800"
+    },
+    "done": false
+  },
   "tutorial:tutorial/copied/string": {
     "criteria": {
       "Obtain Cottonwood Sapling": "2024-01-10 01:55:32 +0800",
@@ -894,6 +961,12 @@
       "Completed Age of Power§r": "2024-01-09 23:05:49 +0800"
     },
     "done": false
+  },
+  "sf4:age_farming/market": {
+    "criteria": {
+      "Obtain Market": "2024-01-13 23:20:41 +0800"
+    },
+    "done": true
   },
   "hardcore:hardcore/survive": {
     "criteria": {
@@ -912,7 +985,11 @@
   "sf4:age_farming/complete": {
     "criteria": {
       "Completed Bonsai!!!§r": "2024-01-10 00:52:00 +0800",
-      "Completed Age of Farming§r": "2024-01-09 23:05:49 +0800"
+      "Completed Citizen Cane§r": "2024-01-14 00:33:27 +0800",
+      "Completed Shredded Wheat§r": "2024-01-13 18:56:02 +0800",
+      "Completed Condensed Milk§r": "2024-01-13 23:54:52 +0800",
+      "Completed Age of Farming§r": "2024-01-09 23:05:49 +0800",
+      "Completed This Little Piggy§r": "2024-01-13 23:20:41 +0800"
     },
     "done": false
   },
@@ -974,7 +1051,11 @@
     "criteria": {
       "Completed Cowabonsai!§r": "2024-01-10 01:02:22 +0800",
       "Prestige Mode Disabled": "2024-01-09 23:05:49 +0800",
+      "Completed Citizen Cane§r": "2024-01-14 00:33:27 +0800",
+      "Completed Shredded Wheat§r": "2024-01-13 18:56:02 +0800",
+      "Completed Condensed Milk§r": "2024-01-13 23:54:52 +0800",
       "Completed Fertile Soil§r": "2024-01-10 01:07:16 +0800",
+      "Completed This Little Piggy§r": "2024-01-13 23:20:41 +0800",
       "Completed Bonsai!!!§r": "2024-01-10 00:52:00 +0800",
       "Completed TuMULCHuous§r": "2024-01-10 01:07:16 +0800",
       "Completed Age of Farming§r": "2024-01-09 23:05:49 +0800"
